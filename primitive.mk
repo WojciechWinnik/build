@@ -1,7 +1,5 @@
 # primitive.mk
 
-__DEBUG__ :=
-
 empty :=
 space := $(empty) $(empty)
 comma := ,
